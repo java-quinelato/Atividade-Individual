@@ -5,10 +5,7 @@ O projeto tem a ideia de ser um aplicativo de notícias sobre o esporte automobi
 
 # Descrição das funcionalidades
 
-
 # Tecnologia utilizadas
-
-# Telas do FlutterFlow
 
 # Link do Deploy/Swagger
 
