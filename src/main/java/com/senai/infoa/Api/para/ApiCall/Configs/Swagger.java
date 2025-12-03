@@ -10,7 +10,7 @@ import io.swagger.v3.oas.annotations.info.Info;
     info = @Info(
         title = "Trabalho Individual",
         version = "1.0",
-        description = "Caio Borsato Alonso"
+        description = "Gabriel Quinelato, Kayke dos Santos Cruz, Luís Eduardo"
     )
 )
 public class Swagger {
