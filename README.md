@@ -8,7 +8,7 @@ O projeto tem a ideia de ser um aplicativo de notícias sobre o esporte automobi
 # Tecnologia utilizadas
 
 # Link do Deploy/Swagger
-Acesse: https://estoquefablab.onrender.com/controleestoquefl/swagger-ui/index.html
+Acesse: https://atividade-individual-nixo.onrender.com/FabLab/swagger-ui/index.html
 
 # Nome do desenvolvedor
 Gabriel Quinelato de Araujo Pontes
